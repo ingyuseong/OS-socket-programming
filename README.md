@@ -1,6 +1,5 @@
 ## Multiple Access Chatting Program using Multithread
-* Term project in KECE340 Operating System ([Prof. Lynn Choi](http://it.korea.ac.kr/?_ga=2.35055464.854245486.1646472198-316617093.1632121575))
-* Term project code are uploaded in this repo
+* Term project / KECE340 Operating System ([Prof. Lynn Choi](http://it.korea.ac.kr/?_ga=2.35055464.854245486.1646472198-316617093.1632121575))
 
 ### Description
 ---
