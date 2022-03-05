@@ -3,7 +3,7 @@
 
 ### Description
 * Topic: Socket Programming
-  * Develop simple chatting server and clients using multithreading
+  * Build a simple chatting program using multithreading
 
 * Server
   * Should be able to relay chat messages between clients
