@@ -7,7 +7,7 @@
 
 * Server
   * Should be able to relay chat messages between clients
-  * Multiple clients can access the server at the same time (using multithread)
+  * Should be able to handle multiple clients at the same time (Implement multithreading)
   * Messages must be sent to the connected clients
 
 * Client
